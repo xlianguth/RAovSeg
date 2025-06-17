@@ -33,7 +33,8 @@ python tutorial.py
 ```
 
 This will generate sample outputs such as:
-![img](./example/results/Image.png)
+![img](Image.png)
+![img](Label.png)
 
 ---
 
