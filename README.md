@@ -1,10 +1,9 @@
 # Image Analysis Tools using for RAovSeg
-
+---
 ## Introduction
 
 This repository provides a set of useful image analysis tools for image segmentation tasks, particularly developed for the RAovSeg pipeline.
 
----
 
 ## Requirements
 
@@ -24,7 +23,6 @@ pip install numpy torch SimpleITK scipy
 - We provide a sample image and segmentation mask as a tutorial example.
 - Dataset source: UTHealth - Endometriosis MRI Dataset (UT-EndoMRI). (https://zenodo.org/records/13749613)
 
----
 
 ## Tutorial
 
